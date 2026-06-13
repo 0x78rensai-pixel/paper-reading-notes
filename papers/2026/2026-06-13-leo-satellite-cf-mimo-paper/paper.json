@@ -1,0 +1,27 @@
+{
+  "id": "2026-06-13-leo-satellite-cf-mimo-paper",
+  "title": "Weighted Sum Rate Maximization for Cell Free Massive MIMO Network of LEO Satellite",
+  "authors": [
+    "Mingqi Gao",
+    "Shibing Zhu",
+    "Sai Xu",
+    "Jianmei Dai"
+  ],
+  "venue": "IEEE Transactions on Vehicular Technology",
+  "publication_status": "Early Access / accepted for publication",
+  "year": 2026,
+  "doi": "10.1109/TVT.2026.3669895",
+  "source": "IEEE Xplore",
+  "date_read": "2026-06-13",
+  "language": "zh-CN",
+  "topics": [
+    "leo-satellite",
+    "massive-mimo",
+    "cell-free-massive-mimo",
+    "beamforming",
+    "weighted-sum-rate"
+  ],
+  "note_path": "papers/2026/2026-06-13-leo-satellite-cf-mimo-paper/index.md",
+  "cover_image": "papers/2026/2026-06-13-leo-satellite-cf-mimo-paper/assets/leo-cf-mmimo-cover.png",
+  "summary": "一篇关于 LEO 卫星 CF-mMIMO 下行多用户通信中加权和速率最大化与波束成形优化的中文阅读笔记。"
+}
