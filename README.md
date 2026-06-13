@@ -6,7 +6,7 @@
 
 | 日期 | 论文 | 方向 | 笔记 |
 | --- | --- | --- | --- |
-| 2026-06-13 | Weighted Sum Rate Maximization for Cell Free Massive MIMO Network of LEO Satellite | LEO Satellite, CF-mMIMO, Beamforming | [阅读笔记]((https://github.com/0x78rensai-pixel/paper-reading-notes/blob/main/papers/2026/2026-06-13-leo-satellite-cf-mimo-paper/) |
+| 2026-06-13 | Weighted Sum Rate Maximization for Cell Free Massive MIMO Network of LEO Satellite | LEO Satellite, CF-mMIMO, Beamforming | [阅读笔记](papers/2026/2026-06-13-leo-satellite-cf-mimo-paper/) |
 
 ## 主题索引
 
