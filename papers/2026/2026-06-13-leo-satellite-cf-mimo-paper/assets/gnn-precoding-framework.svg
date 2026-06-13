@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="520" viewBox="0 0 1120 520" role="img" aria-labelledby="title desc">
+  <title id="title">GNN-enabled Precoding Framework for Massive MIMO LEO Satellite Communications</title>
+  <desc id="desc">An original schematic showing how LEO channel features, graph construction, GNN layers, unfolded optimization, and precoding decisions connect.</desc>
+  <rect width="1120" height="520" fill="#f7f9fb"/>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#334155"/>
+    </marker>
+    <style>
+      .box { fill: #ffffff; stroke: #334155; stroke-width: 2; rx: 8; }
+      .accent { fill: #e0f2fe; stroke: #0369a1; }
+      .warm { fill: #fff7ed; stroke: #c2410c; }
+      .green { fill: #ecfdf5; stroke: #047857; }
+      .text { font: 22px Arial, sans-serif; fill: #0f172a; }
+      .small { font: 16px Arial, sans-serif; fill: #475569; }
+      .line { stroke: #334155; stroke-width: 2.5; fill: none; marker-end: url(#arrow); }
+      .dash { stroke: #64748b; stroke-width: 2; stroke-dasharray: 8 7; fill: none; marker-end: url(#arrow); }
+    </style>
+  </defs>
+  <text x="48" y="48" class="text">GNN-enabled Precoding for Massive MIMO LEO Satellite Communications</text>
+  <text x="48" y="76" class="small">原创重绘：从可确认论文信息抽象出的技术路线，不是论文原图。</text>
+
+  <rect x="48" y="122" width="210" height="116" class="box accent"/>
+  <text x="76" y="164" class="text">LEO 信道特征</text>
+  <text x="76" y="196" class="small">Doppler / delay / UPA</text>
+  <text x="76" y="220" class="small">统计 CSI 与动态信道</text>
+
+  <rect x="322" y="122" width="210" height="116" class="box"/>
+  <text x="354" y="164" class="text">图建模</text>
+  <text x="354" y="196" class="small">用户与干扰关系</text>
+  <text x="354" y="220" class="small">节点/边特征传播</text>
+
+  <rect x="596" y="122" width="210" height="116" class="box green"/>
+  <text x="626" y="164" class="text">GNN 预编码器</text>
+  <text x="626" y="196" class="small">端到端映射</text>
+  <text x="626" y="220" class="small">低复杂度推理</text>
+
+  <rect x="870" y="122" width="210" height="116" class="box warm"/>
+  <text x="904" y="164" class="text">预编码决策</text>
+  <text x="904" y="196" class="small">能效 EE 最大化</text>
+  <text x="904" y="220" class="small">鲁棒性与复杂度权衡</text>
+
+  <path d="M258 180 H322" class="line"/>
+  <path d="M532 180 H596" class="line"/>
+  <path d="M806 180 H870" class="line"/>
+
+  <rect x="204" y="314" width="300" height="118" class="box"/>
+  <text x="238" y="356" class="text">Dinkelbach + WMMSE</text>
+  <text x="238" y="388" class="small">把能效优化迭代展开成网络层</text>
+  <text x="238" y="414" class="small">保留优化先验，减少黑箱感</text>
+
+  <rect x="616" y="314" width="300" height="118" class="box"/>
+  <text x="650" y="356" class="text">Taylor 近似矩阵逆</text>
+  <text x="650" y="388" class="small">降低矩阵运算开销</text>
+  <text x="650" y="414" class="small">增强可解释性与部署友好性</text>
+
+  <path d="M701 238 C690 278, 520 292, 430 314" class="dash"/>
+  <path d="M701 238 C730 274, 752 292, 766 314" class="dash"/>
+  <path d="M504 373 H616" class="line"/>
+
+  <circle cx="142" cy="304" r="18" fill="#0369a1"/>
+  <circle cx="106" cy="360" r="12" fill="#0369a1"/>
+  <circle cx="178" cy="360" r="12" fill="#0369a1"/>
+  <path d="M142 304 L106 360 M142 304 L178 360 M106 360 L178 360" stroke="#0369a1" stroke-width="3"/>
+  <text x="64" y="442" class="small">图结构把多用户干扰关系显式编码，服务于快速预编码推理。</text>
+</svg>

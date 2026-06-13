@@ -1,27 +1,56 @@
 {
-  "id": "2026-06-13-leo-satellite-cf-mimo-paper",
-  "title": "Weighted Sum Rate Maximization for Cell Free Massive MIMO Network of LEO Satellite",
+  "title": "GNN-enabled Precoding for Massive MIMO LEO Satellite Communications",
+  "normalized_title": "gnn enabled precoding for massive mimo leo satellite communications",
   "authors": [
-    "Mingqi Gao",
-    "Shibing Zhu",
-    "Sai Xu",
-    "Jianmei Dai"
+    "Huibin Zhou",
+    "Xinrui Gong",
+    "Christos G. Tsinos",
+    "Li You",
+    "Xiqi Gao",
+    "Bjorn Ottersten"
   ],
-  "venue": "IEEE Transactions on Vehicular Technology",
-  "publication_status": "Early Access / accepted for publication",
-  "year": 2026,
-  "doi": "10.1109/TVT.2026.3669895",
-  "source": "IEEE Xplore",
-  "date_read": "2026-06-13",
-  "language": "zh-CN",
-  "topics": [
-    "leo-satellite",
-    "massive-mimo",
-    "cell-free-massive-mimo",
-    "beamforming",
-    "weighted-sum-rate"
+  "venue": "IEEE Transactions on Communications",
+  "year": "2025",
+  "doi": "10.1109/TCOMM.2025.3568216",
+  "ieee_url": "https://doi.org/10.1109/TCOMM.2025.3568216",
+  "source_url": "https://arxiv.org/abs/2505.03311",
+  "source_type": "trusted web",
+  "local_pdf_path": "",
+  "blog_date": "2026-06-13",
+  "blog_path": "papers/2026/2026-06-13-leo-satellite-cf-mimo-paper/index.md",
+  "tags": [
+    "IEEE",
+    "LEO",
+    "Massive MIMO",
+    "GNN",
+    "Precoding",
+    "Wireless AI"
   ],
-  "note_path": "papers/2026/2026-06-13-leo-satellite-cf-mimo-paper/index.md",
-  "cover_image": "papers/2026/2026-06-13-leo-satellite-cf-mimo-paper/assets/leo-cf-mmimo-cover.png",
-  "summary": "一篇关于 LEO 卫星 CF-mMIMO 下行多用户通信中加权和速率最大化与波束成形优化的中文阅读笔记。"
+  "research_relevance": {
+    "leo_satellite": true,
+    "cell_free_mimo": false,
+    "sinr_prediction": true,
+    "channel_aging": true,
+    "gnn_or_mpnn": true,
+    "wireless_ai": true
+  },
+  "duplicate_check_status": "passed",
+  "duplicate_check_basis": {
+    "doi_checked": true,
+    "title_checked": true,
+    "ieee_url_checked": true,
+    "used_papers_json_checked": true,
+    "existing_markdown_checked": true
+  },
+  "privacy_check_status": "passed",
+  "privacy_check_basis": {
+    "no_real_name": true,
+    "no_email": true,
+    "no_phone": true,
+    "no_local_windows_path": true,
+    "no_server_info": true,
+    "no_secret_or_token": true,
+    "no_private_research_data": true
+  },
+  "notes": "论文真实性依据为 arXiv 页面给出的 IEEE Transactions on Communications 期刊引用和相关 DOI；公开笔记未使用本地 PDF。"
 }
