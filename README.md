@@ -6,6 +6,7 @@
 
 | 日期 | 论文 | 方向 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-06-15 | Downlink Performance of Cell-Free Massive MIMO for LEO Satellite Mega-Constellation | LEO Satellite, Cell-Free Massive MIMO, Coverage Probability | [阅读笔记](papers/2026/2026-06-15-downlink-performance-cf-mimo-leo-mega-constellation/index.md) |
 | 2026-06-13 | GNN-enabled Precoding for Massive MIMO LEO Satellite Communications | LEO Satellite, Massive MIMO, GNN | [阅读笔记](papers/2026/2026-06-13-leo-satellite-cf-mimo-paper/index.md) |
 
 ## 主题索引

@@ -1,0 +1,52 @@
+{
+  "title": "Downlink Performance of Cell-Free Massive MIMO for LEO Satellite Mega-Constellation",
+  "normalized_title": "downlink performance of cell free massive mimo for leo satellite mega constellation",
+  "authors": [
+    "Xiangyu Li",
+    "Bodong Shang"
+  ],
+  "venue": "IEEE Transactions on Mobile Computing",
+  "year": "2025",
+  "doi": "10.1109/TMC.2025.3628390",
+  "ieee_url": "https://doi.org/10.1109/TMC.2025.3628390",
+  "source_url": "https://doi.org/10.1109/TMC.2025.3628390",
+  "source_type": "local PDF",
+  "local_pdf_path": "local_source_not_published",
+  "blog_date": "2026-06-15",
+  "blog_path": "papers/2026/2026-06-15-downlink-performance-cf-mimo-leo-mega-constellation/index.md",
+  "tags": [
+    "IEEE",
+    "LEO",
+    "Cell-Free Massive MIMO",
+    "Coverage Probability",
+    "Stochastic Geometry",
+    "SINR"
+  ],
+  "research_relevance": {
+    "leo_satellite": true,
+    "cell_free_mimo": true,
+    "sinr_prediction": true,
+    "channel_aging": false,
+    "gnn_or_mpnn": false,
+    "wireless_ai": false
+  },
+  "duplicate_check_status": "passed",
+  "duplicate_check_basis": {
+    "doi_checked": true,
+    "title_checked": true,
+    "ieee_url_checked": true,
+    "used_papers_json_checked": true,
+    "existing_markdown_checked": true
+  },
+  "privacy_check_status": "passed",
+  "privacy_check_basis": {
+    "no_real_name": true,
+    "no_email": true,
+    "no_phone": true,
+    "no_local_windows_path": true,
+    "no_server_info": true,
+    "no_secret_or_token": true,
+    "no_private_research_data": true
+  },
+  "notes": "论文真实性依据为本地 IEEE PDF 页眉中的 IEEE Transactions on Mobile Computing accepted-for-publication 声明、DOI 信息和论文首页元数据；公开文件不保存本地绝对路径。"
+}

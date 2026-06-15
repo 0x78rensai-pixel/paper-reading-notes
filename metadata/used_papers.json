@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-06-13",
+  "updated_at": "2026-06-15",
   "papers": [
+    {
+      "title": "Downlink Performance of Cell-Free Massive MIMO for LEO Satellite Mega-Constellation",
+      "normalized_title": "downlink performance of cell free massive mimo for leo satellite mega constellation",
+      "authors": [
+        "Xiangyu Li",
+        "Bodong Shang"
+      ],
+      "venue": "IEEE Transactions on Mobile Computing",
+      "year": 2025,
+      "doi": "10.1109/TMC.2025.3628390",
+      "ieee_url": "https://doi.org/10.1109/TMC.2025.3628390",
+      "blog_date": "2026-06-15",
+      "blog_path": "papers/2026/2026-06-15-downlink-performance-cf-mimo-leo-mega-constellation/index.md",
+      "tags": [
+        "IEEE",
+        "LEO",
+        "Cell-Free Massive MIMO",
+        "Coverage Probability",
+        "Stochastic Geometry",
+        "SINR"
+      ],
+      "privacy_check_status": "passed",
+      "duplicate_check_status": "passed"
+    },
     {
       "title": "GNN-enabled Precoding for Massive MIMO LEO Satellite Communications",
       "normalized_title": "gnn enabled precoding for massive mimo leo satellite communications",

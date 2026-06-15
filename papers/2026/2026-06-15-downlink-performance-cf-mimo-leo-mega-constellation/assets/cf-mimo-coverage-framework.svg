@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="520" viewBox="0 0 980 520" role="img" aria-labelledby="title desc">
+  <title id="title">CF-mMIMO LEO coverage analysis framework</title>
+  <desc id="desc">Original schematic of stochastic geometry based downlink performance analysis for LEO satellite cell-free massive MIMO.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#455a64"/>
+    </marker>
+    <style>
+      .bg { fill: #f8fafc; }
+      .orbit { fill: none; stroke: #87a8c6; stroke-width: 3; stroke-dasharray: 8 8; }
+      .earth { fill: #d7eadf; stroke: #5f8f79; stroke-width: 3; }
+      .sat { fill: #245b89; stroke: #16364f; stroke-width: 2; }
+      .ut { fill: #f2a65a; stroke: #945f25; stroke-width: 2; }
+      .panel { fill: #ffffff; stroke: #c9d4df; stroke-width: 2; rx: 8; }
+      .label { font-family: Arial, sans-serif; font-size: 20px; fill: #1f2933; }
+      .small { font-family: Arial, sans-serif; font-size: 16px; fill: #34495e; }
+      .tiny { font-family: Arial, sans-serif; font-size: 14px; fill: #52616b; }
+      .link { stroke: #245b89; stroke-width: 2.2; fill: none; marker-end: url(#arrow); }
+      .interf { stroke: #c65d32; stroke-width: 2; stroke-dasharray: 7 6; fill: none; marker-end: url(#arrow); }
+      .flow { stroke: #455a64; stroke-width: 2.4; fill: none; marker-end: url(#arrow); }
+    </style>
+  </defs>
+  <rect class="bg" x="0" y="0" width="980" height="520"/>
+  <circle class="earth" cx="255" cy="375" r="82"/>
+  <ellipse class="orbit" cx="255" cy="375" rx="205" ry="130"/>
+  <circle class="sat" cx="135" cy="285" r="15"/>
+  <circle class="sat" cx="245" cy="245" r="15"/>
+  <circle class="sat" cx="365" cy="285" r="15"/>
+  <circle class="sat" cx="445" cy="370" r="15"/>
+  <circle class="ut" cx="222" cy="345" r="10"/>
+  <circle class="ut" cx="274" cy="338" r="10"/>
+  <circle class="ut" cx="300" cy="388" r="10"/>
+  <path class="link" d="M135 285 C165 305,190 325,222 345"/>
+  <path class="link" d="M245 245 C250 285,255 315,274 338"/>
+  <path class="link" d="M365 285 C345 325,325 365,300 388"/>
+  <path class="interf" d="M445 370 C390 348,340 338,274 338"/>
+  <text class="label" x="70" y="78">LEO CF-mMIMO 下行覆盖分析</text>
+  <text class="small" x="102" y="126">SAP 球面 PPP</text>
+  <text class="small" x="178" y="476">UT 地表 PPP</text>
+  <text class="tiny" x="383" y="262">非协作卫星干扰</text>
+  <rect class="panel" x="570" y="58" width="315" height="84"/>
+  <text class="small" x="592" y="91">1. 球面随机几何建模</text>
+  <text class="tiny" x="592" y="119">SAP/UT 位置、dome angle、服务集合</text>
+  <rect class="panel" x="570" y="170" width="315" height="84"/>
+  <text class="small" x="592" y="203">2. 链路与信道统计</text>
+  <text class="tiny" x="592" y="231">路径损耗、Nakagami-m、天线增益</text>
+  <rect class="panel" x="570" y="282" width="315" height="84"/>
+  <text class="small" x="592" y="315">3. SINR 组成拆解</text>
+  <text class="tiny" x="592" y="343">期望信号、MUI、ISI、噪声</text>
+  <rect class="panel" x="570" y="394" width="315" height="84"/>
+  <text class="small" x="592" y="427">4. 覆盖概率与容量趋势</text>
+  <text class="tiny" x="592" y="455">解析表达式 + Monte Carlo 验证</text>
+  <path class="flow" d="M728 142 L728 170"/>
+  <path class="flow" d="M728 254 L728 282"/>
+  <path class="flow" d="M728 366 L728 394"/>
+</svg>
