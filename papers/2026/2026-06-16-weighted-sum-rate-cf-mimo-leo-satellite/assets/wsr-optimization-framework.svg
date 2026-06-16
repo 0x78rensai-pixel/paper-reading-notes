@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="620" viewBox="0 0 1120 620" role="img" aria-labelledby="title desc">
+  <title id="title">LEO cell-free massive MIMO weighted sum rate optimization framework</title>
+  <desc id="desc">Original schematic showing LEO satellite access points, a core satellite, OFDM downlink beamforming, interference terms, and alternating optimization.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#34495e"/>
+    </marker>
+    <linearGradient id="space" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#eef5ff"/>
+      <stop offset="100%" stop-color="#f8fbf2"/>
+    </linearGradient>
+    <style>
+      .bg { fill: url(#space); }
+      .panel { fill: #ffffff; stroke: #d0d7de; stroke-width: 1.5; rx: 8; }
+      .sat { fill: #2563eb; stroke: #1e3a8a; stroke-width: 2; }
+      .core { fill: #f59e0b; stroke: #92400e; stroke-width: 2; }
+      .gt { fill: #10b981; stroke: #065f46; stroke-width: 2; }
+      .line { stroke: #34495e; stroke-width: 2.2; fill: none; marker-end: url(#arrow); }
+      .dash { stroke: #7c3aed; stroke-width: 2; fill: none; stroke-dasharray: 8 6; marker-end: url(#arrow); }
+      .interf { stroke: #dc2626; stroke-width: 2; fill: none; stroke-dasharray: 5 5; marker-end: url(#arrow); }
+      .label { font-family: Arial, sans-serif; font-size: 22px; fill: #111827; font-weight: 700; }
+      .small { font-family: Arial, sans-serif; font-size: 17px; fill: #374151; }
+      .tiny { font-family: Arial, sans-serif; font-size: 15px; fill: #4b5563; }
+      .eq { font-family: Consolas, monospace; font-size: 18px; fill: #111827; }
+    </style>
+  </defs>
+  <rect class="bg" width="1120" height="620"/>
+  <rect class="panel" x="42" y="52" width="478" height="500"/>
+  <rect class="panel" x="586" y="52" width="492" height="500"/>
+  <text class="label" x="76" y="96">LEO satellite CF-mMIMO downlink</text>
+  <text class="label" x="620" y="96">WSR maximization pipeline</text>
+
+  <circle class="core" cx="282" cy="160" r="32"/>
+  <text class="tiny" x="252" y="166">CS</text>
+  <circle class="sat" cx="130" cy="248" r="26"/>
+  <circle class="sat" cx="255" cy="278" r="26"/>
+  <circle class="sat" cx="410" cy="236" r="26"/>
+  <text class="tiny" x="105" y="287">SAP 1</text>
+  <text class="tiny" x="231" y="318">SAP n</text>
+  <text class="tiny" x="386" y="276">SAP N</text>
+
+  <path class="dash" d="M259 174 C220 198 186 220 153 238"/>
+  <path class="dash" d="M278 193 C270 220 264 246 259 253"/>
+  <path class="dash" d="M310 173 C342 192 376 212 395 224"/>
+  <text class="tiny" x="70" y="140">Inter-satellite links carry CSI and beamforming vectors</text>
+
+  <circle class="gt" cx="150" cy="430" r="19"/>
+  <circle class="gt" cx="282" cy="455" r="19"/>
+  <circle class="gt" cx="425" cy="420" r="19"/>
+  <text class="tiny" x="122" y="470">GT 1</text>
+  <text class="tiny" x="256" y="497">GT k</text>
+  <text class="tiny" x="398" y="462">GT K</text>
+
+  <path class="line" d="M134 274 C137 320 143 370 148 408"/>
+  <path class="line" d="M258 304 C263 350 272 405 279 433"/>
+  <path class="line" d="M405 262 C411 309 418 369 423 399"/>
+  <path class="interf" d="M155 265 C205 330 242 390 270 438"/>
+  <path class="interf" d="M390 255 C335 330 306 392 288 437"/>
+  <text class="tiny" x="67" y="524">Desired links and inter-user/inter-subcarrier interference jointly shape SINR.</text>
+
+  <rect x="628" y="128" width="406" height="74" rx="8" fill="#eff6ff" stroke="#93c5fd"/>
+  <text class="small" x="652" y="158">1. OFDM satellite cluster model</text>
+  <text class="tiny" x="652" y="184">SAP-GT Rician channel, frequency offset, power budget</text>
+
+  <rect x="628" y="232" width="406" height="86" rx="8" fill="#ecfdf5" stroke="#86efac"/>
+  <text class="small" x="652" y="262">2. SINR and weighted sum rate</text>
+  <text class="eq" x="652" y="292">max Σ ω_k log(1 + γ_m,k)</text>
+
+  <rect x="628" y="350" width="406" height="92" rx="8" fill="#fff7ed" stroke="#fdba74"/>
+  <text class="small" x="652" y="380">3. Fractional programming transform</text>
+  <text class="tiny" x="652" y="408">Lagrangian dual transform + quadratic transform</text>
+
+  <rect x="628" y="474" width="406" height="56" rx="8" fill="#f5f3ff" stroke="#c4b5fd"/>
+  <text class="small" x="652" y="508">4. BCD updates beamforming and auxiliary variables</text>
+
+  <path class="line" d="M831 202 L831 226"/>
+  <path class="line" d="M831 318 L831 344"/>
+  <path class="line" d="M831 442 L831 468"/>
+</svg>

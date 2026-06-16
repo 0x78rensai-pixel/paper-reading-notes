@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-06-15",
+  "updated_at": "2026-06-16",
   "papers": [
+    {
+      "title": "Weighted Sum Rate Maximization for Cell Free Massive MIMO Network of LEO Satellite",
+      "normalized_title": "weighted sum rate maximization for cell free massive mimo network of leo satellite",
+      "authors": [
+        "Mingqi Gao",
+        "Shibing Zhu",
+        "Sai Xu",
+        "Jianmei Dai"
+      ],
+      "venue": "IEEE Transactions on Vehicular Technology",
+      "year": 2026,
+      "doi": "10.1109/TVT.2026.3669895",
+      "ieee_url": "https://doi.org/10.1109/TVT.2026.3669895",
+      "blog_date": "2026-06-16",
+      "blog_path": "papers/2026/2026-06-16-weighted-sum-rate-cf-mimo-leo-satellite/index.md",
+      "tags": [
+        "IEEE",
+        "LEO",
+        "Cell-Free Massive MIMO",
+        "Weighted Sum Rate",
+        "Beamforming",
+        "OFDM",
+        "SINR"
+      ],
+      "privacy_check_status": "passed",
+      "duplicate_check_status": "passed"
+    },
     {
       "title": "Downlink Performance of Cell-Free Massive MIMO for LEO Satellite Mega-Constellation",
       "normalized_title": "downlink performance of cell free massive mimo for leo satellite mega constellation",

@@ -1,0 +1,55 @@
+{
+  "title": "Weighted Sum Rate Maximization for Cell Free Massive MIMO Network of LEO Satellite",
+  "normalized_title": "weighted sum rate maximization for cell free massive mimo network of leo satellite",
+  "authors": [
+    "Mingqi Gao",
+    "Shibing Zhu",
+    "Sai Xu",
+    "Jianmei Dai"
+  ],
+  "venue": "IEEE Transactions on Vehicular Technology",
+  "year": "2026",
+  "doi": "10.1109/TVT.2026.3669895",
+  "ieee_url": "https://doi.org/10.1109/TVT.2026.3669895",
+  "source_url": "https://doi.org/10.1109/TVT.2026.3669895",
+  "source_type": "local PDF",
+  "local_pdf_path": "local_source_not_published",
+  "blog_date": "2026-06-16",
+  "blog_path": "papers/2026/2026-06-16-weighted-sum-rate-cf-mimo-leo-satellite/index.md",
+  "tags": [
+    "IEEE",
+    "LEO",
+    "Cell-Free Massive MIMO",
+    "Weighted Sum Rate",
+    "Beamforming",
+    "OFDM",
+    "SINR"
+  ],
+  "research_relevance": {
+    "leo_satellite": true,
+    "cell_free_mimo": true,
+    "sinr_prediction": true,
+    "channel_aging": true,
+    "gnn_or_mpnn": false,
+    "wireless_ai": false
+  },
+  "duplicate_check_status": "passed",
+  "duplicate_check_basis": {
+    "doi_checked": true,
+    "title_checked": true,
+    "ieee_url_checked": true,
+    "used_papers_json_checked": true,
+    "existing_markdown_checked": true
+  },
+  "privacy_check_status": "passed",
+  "privacy_check_basis": {
+    "no_real_name": true,
+    "no_email": true,
+    "no_phone": true,
+    "no_local_windows_path": true,
+    "no_server_info": true,
+    "no_secret_or_token": true,
+    "no_private_research_data": true
+  },
+  "notes": "IEEE TVT accepted article metadata was confirmed from the local IEEE PDF first page; DOI link is used as the public source URL."
+}

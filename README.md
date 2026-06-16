@@ -6,6 +6,7 @@
 
 | 日期 | 论文 | 方向 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-06-16 | Weighted Sum Rate Maximization for Cell Free Massive MIMO Network of LEO Satellite | LEO Satellite, Cell-Free Massive MIMO, WSR, Beamforming | [阅读笔记](papers/2026/2026-06-16-weighted-sum-rate-cf-mimo-leo-satellite/index.md) |
 | 2026-06-15 | Downlink Performance of Cell-Free Massive MIMO for LEO Satellite Mega-Constellation | LEO Satellite, Cell-Free Massive MIMO, Coverage Probability | [阅读笔记](papers/2026/2026-06-15-downlink-performance-cf-mimo-leo-mega-constellation/index.md) |
 | 2026-06-13 | GNN-enabled Precoding for Massive MIMO LEO Satellite Communications | LEO Satellite, Massive MIMO, GNN | [阅读笔记](papers/2026/2026-06-13-leo-satellite-cf-mimo-paper/index.md) |
 
