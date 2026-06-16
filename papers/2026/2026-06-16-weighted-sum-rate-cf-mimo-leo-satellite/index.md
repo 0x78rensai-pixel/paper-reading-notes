@@ -94,20 +94,16 @@ maximize sum_{m,k} omega_k log(1 + gamma_m,k)
 
 图 1：根据论文思路重新绘制的 LEO CF-mMIMO 下行 WSR 优化框架，展示 core satellite、SAP、GT、OFDM 干扰和交替优化流程之间的关系，非论文原图。
 
-```mermaid
-flowchart TD
-    A[LEO satellite cluster] --> B[Core satellite collects CSI]
-    B --> C[OFDM downlink channel and frequency offset model]
-    C --> D[SINR for each subcarrier and GT]
-    D --> E[Weighted sum rate objective]
-    E --> F[Lagrangian dual transform]
-    F --> G[Quadratic transform]
-    G --> H[BCD alternating update]
-    H --> I[Beamforming vectors for SAPs]
-    I --> D
-```
+| 步骤 | 输入或状态 | 处理动作 | 输出 |
+| --- | --- | --- | --- |
+| 1 | LEO satellite cluster | core satellite 收集 CSI 与系统参数 | OFDM 下行信道状态 |
+| 2 | 信道、频偏、功率预算 | 计算每个子载波和 GT 的 SINR | 多用户 SINR 表达 |
+| 3 | SINR 表达 | 构造 weighted sum rate 目标 | 非凸 WSR 优化问题 |
+| 4 | WSR 优化问题 | Lagrangian dual transform 与 quadratic transform | 可交替优化的等价形式 |
+| 5 | 辅助变量与波束矩阵 | BCD 迭代更新 | SAP beamforming vectors |
+| 6 | 新波束成形向量 | 回到 SINR 计算并继续迭代 | WSR 逐步改善 |
 
-图 2：论文优化流程的简化逻辑图，强调 WSR、SINR 和波束成形之间的闭环关系，属于原创重绘。
+图 2：论文优化流程的简化逻辑表，强调 WSR、SINR 和波束成形之间的闭环关系，属于原创整理。
 
 ## 8. 实验设置与结果理解
 
