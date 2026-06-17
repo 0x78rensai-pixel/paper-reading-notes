@@ -1,6 +1,37 @@
 {
-  "updated_at": "2026-06-16",
+  "updated_at": "2026-06-17",
   "papers": [
+    {
+      "title": "Improving Integrated Satellite-Terrestrial Cell-Free Massive MIMO Systems by Rate-Splitting Multiple Access",
+      "normalized_title": "improving integrated satellite terrestrial cell free massive mimo systems by rate splitting multiple access",
+      "authors": [
+        "Yao Zhang",
+        "Jintao Shen",
+        "Xiaofeng Lin",
+        "Meilin Li",
+        "Yaoqi Sun",
+        "Xichun Sheng",
+        "Haitao Zhao",
+        "Hongbo Zhu"
+      ],
+      "venue": "IEEE Internet of Things Journal",
+      "year": 2025,
+      "doi": "10.1109/JIOT.2025.3525730",
+      "ieee_url": "https://doi.org/10.1109/JIOT.2025.3525730",
+      "blog_date": "2026-06-17",
+      "blog_path": "papers/2026/2026-06-17-rsma-ist-cf-mimo-energy-efficiency/index.md",
+      "tags": [
+        "IEEE",
+        "LEO",
+        "Cell-Free Massive MIMO",
+        "RSMA",
+        "Energy Efficiency",
+        "Satellite-Terrestrial Networks",
+        "SINR"
+      ],
+      "privacy_check_status": "passed",
+      "duplicate_check_status": "passed"
+    },
     {
       "title": "Weighted Sum Rate Maximization for Cell Free Massive MIMO Network of LEO Satellite",
       "normalized_title": "weighted sum rate maximization for cell free massive mimo network of leo satellite",

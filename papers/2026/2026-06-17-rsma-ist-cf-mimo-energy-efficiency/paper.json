@@ -1,0 +1,59 @@
+{
+  "title": "Improving Integrated Satellite-Terrestrial Cell-Free Massive MIMO Systems by Rate-Splitting Multiple Access",
+  "normalized_title": "improving integrated satellite terrestrial cell free massive mimo systems by rate splitting multiple access",
+  "authors": [
+    "Yao Zhang",
+    "Jintao Shen",
+    "Xiaofeng Lin",
+    "Meilin Li",
+    "Yaoqi Sun",
+    "Xichun Sheng",
+    "Haitao Zhao",
+    "Hongbo Zhu"
+  ],
+  "venue": "IEEE Internet of Things Journal",
+  "year": 2025,
+  "doi": "10.1109/JIOT.2025.3525730",
+  "ieee_url": "https://doi.org/10.1109/JIOT.2025.3525730",
+  "source_url": "https://doi.org/10.1109/JIOT.2025.3525730",
+  "source_type": "local IEEE PDF metadata and DOI",
+  "local_pdf_path": "local_source_not_published",
+  "blog_date": "2026-06-17",
+  "blog_path": "papers/2026/2026-06-17-rsma-ist-cf-mimo-energy-efficiency/index.md",
+  "tags": [
+    "IEEE",
+    "LEO",
+    "Cell-Free Massive MIMO",
+    "RSMA",
+    "Energy Efficiency",
+    "Satellite-Terrestrial Networks",
+    "SINR"
+  ],
+  "research_relevance": {
+    "leo_satellite": true,
+    "cell_free_mimo": true,
+    "sinr_prediction": true,
+    "channel_aging": false,
+    "gnn_or_mpnn": false,
+    "wireless_ai": false
+  },
+  "duplicate_check_status": "passed",
+  "duplicate_check_basis": {
+    "doi_checked": true,
+    "title_checked": true,
+    "ieee_url_checked": true,
+    "used_papers_json_checked": true,
+    "existing_markdown_checked": true
+  },
+  "privacy_check_status": "passed",
+  "privacy_check_basis": {
+    "no_real_name": true,
+    "no_email": true,
+    "no_phone": true,
+    "no_local_windows_path": true,
+    "no_server_info": true,
+    "no_secret_or_token": true,
+    "no_private_research_data": true
+  },
+  "notes": "IEEE publication details verified from local IEEE PDF metadata and first page; public files omit local absolute paths and author contact details."
+}

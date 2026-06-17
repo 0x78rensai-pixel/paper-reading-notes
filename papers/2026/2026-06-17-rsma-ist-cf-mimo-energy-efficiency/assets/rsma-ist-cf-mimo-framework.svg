@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="560" viewBox="0 0 980 560" role="img" aria-labelledby="title desc">
+  <title id="title">RSMA-aided IST-CF-mMIMO framework</title>
+  <desc id="desc">Original schematic showing users, terrestrial APs, a LEO satellite, CPU processing, RSMA stream splitting and FP-based power control.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#334155"/></marker>
+    <style>.box{fill:#ffffff;stroke:#334155;stroke-width:2;rx:10;}.soft{fill:#eef6ff;stroke:#2563eb;stroke-width:2;rx:10;}.sat{fill:#fff7ed;stroke:#f97316;stroke-width:2;rx:10;}.cpu{fill:#f0fdf4;stroke:#16a34a;stroke-width:2;rx:10;}.txt{font-family:Arial,sans-serif;font-size:20px;fill:#0f172a;}.small{font-family:Arial,sans-serif;font-size:15px;fill:#334155;}.line{stroke:#334155;stroke-width:2.4;fill:none;marker-end:url(#arrow);}.dash{stroke:#64748b;stroke-width:2;fill:none;stroke-dasharray:8 6;marker-end:url(#arrow);}</style>
+  </defs>
+  <rect width="980" height="560" fill="#f8fafc"/>
+  <text x="42" y="48" class="txt" font-weight="700">RSMA-aided IST-CF-mMIMO uplink framework</text>
+  <text x="42" y="76" class="small">Original redraw: stream splitting, AP/LEO cooperation, CPU detection, and FP power control loop</text>
+  <rect x="52" y="148" width="190" height="104" class="soft"/>
+  <text x="82" y="184" class="txt">Users</text>
+  <text x="76" y="215" class="small">message wk split into</text>
+  <text x="76" y="238" class="small">streams sk1 and sk2</text>
+  <rect x="356" y="126" width="200" height="126" class="box"/>
+  <text x="406" y="166" class="txt">APs</text>
+  <text x="382" y="198" class="small">Rician channel</text>
+  <text x="382" y="222" class="small">MMSE estimation</text>
+  <rect x="356" y="316" width="200" height="118" class="sat"/>
+  <text x="390" y="355" class="txt">LEO satellite</text>
+  <text x="382" y="388" class="small">space link observation</text>
+  <text x="382" y="412" class="small">cooperates with APs</text>
+  <rect x="690" y="166" width="220" height="128" class="cpu"/>
+  <text x="748" y="206" class="txt">CPU</text>
+  <text x="724" y="238" class="small">joint detection and SIC</text>
+  <text x="724" y="262" class="small">closed-form SE / EE</text>
+  <rect x="690" y="354" width="220" height="104" class="soft"/>
+  <text x="716" y="394" class="txt">FP power control</text>
+  <text x="716" y="426" class="small">optimize eta_k and xi_k</text>
+  <path d="M242 188 C290 170,310 154,356 160" class="line"/>
+  <path d="M242 220 C292 260,318 330,356 360" class="line"/>
+  <path d="M556 188 C610 188,638 190,690 204" class="line"/>
+  <path d="M556 378 C620 360,648 278,690 250" class="line"/>
+  <path d="M800 294 L800 354" class="line"/>
+  <path d="M690 420 C560 512,248 502,150 252" class="dash"/>
+  <text x="275" y="145" class="small">uplink pilots / data</text>
+  <text x="282" y="312" class="small">satellite reception</text>
+  <text x="584" y="168" class="small">fronthaul to CPU</text>
+  <text x="570" y="340" class="small">gateway/backhaul</text>
+  <text x="520" y="504" class="small">optimized stream and power feedback</text>
+</svg>
