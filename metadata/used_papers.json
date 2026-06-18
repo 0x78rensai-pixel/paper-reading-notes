@@ -1,6 +1,35 @@
 {
-  "updated_at": "2026-06-17",
+  "updated_at": "2026-06-18",
   "papers": [
+    {
+      "title": "Federated Learning Aided LEO Satellite Communications: A Distributed Beamforming Approach",
+      "normalized_title": "federated learning aided leo satellite communications a distributed beamforming approach",
+      "authors": [
+        "Tianwei Hou",
+        "Zhengyu Song",
+        "Jun Wang",
+        "Wenfei Gong",
+        "Anna Li",
+        "Arumugam Nallanathan"
+      ],
+      "venue": "IEEE Internet of Things Journal",
+      "year": 2025,
+      "doi": "10.1109/JIOT.2025.3573222",
+      "ieee_url": "https://doi.org/10.1109/JIOT.2025.3573222",
+      "blog_date": "2026-06-18",
+      "blog_path": "papers/2026/2026-06-18-federated-learning-leo-distributed-beamforming/index.md",
+      "tags": [
+        "IEEE",
+        "LEO",
+        "Distributed Beamforming",
+        "Federated Learning",
+        "Wireless AI",
+        "Imperfect CSI",
+        "SINR"
+      ],
+      "privacy_check_status": "passed",
+      "duplicate_check_status": "passed"
+    },
     {
       "title": "Improving Integrated Satellite-Terrestrial Cell-Free Massive MIMO Systems by Rate-Splitting Multiple Access",
       "normalized_title": "improving integrated satellite terrestrial cell free massive mimo systems by rate splitting multiple access",

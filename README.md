@@ -6,6 +6,7 @@
 
 | 日期 | 论文 | 方向 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-06-18 | Federated Learning Aided LEO Satellite Communications: A Distributed Beamforming Approach | LEO Satellite, Distributed Beamforming, Federated Learning, Wireless AI | [阅读笔记](papers/2026/2026-06-18-federated-learning-leo-distributed-beamforming/index.md) |
 | 2026-06-17 | Improving Integrated Satellite-Terrestrial Cell-Free Massive MIMO Systems by Rate-Splitting Multiple Access | LEO Satellite, Cell-Free Massive MIMO, RSMA, Energy Efficiency | [阅读笔记](papers/2026/2026-06-17-rsma-ist-cf-mimo-energy-efficiency/index.md) |
 | 2026-06-16 | Weighted Sum Rate Maximization for Cell Free Massive MIMO Network of LEO Satellite | LEO Satellite, Cell-Free Massive MIMO, WSR, Beamforming | [阅读笔记](papers/2026/2026-06-16-weighted-sum-rate-cf-mimo-leo-satellite/index.md) |
 | 2026-06-15 | Downlink Performance of Cell-Free Massive MIMO for LEO Satellite Mega-Constellation | LEO Satellite, Cell-Free Massive MIMO, Coverage Probability | [阅读笔记](papers/2026/2026-06-15-downlink-performance-cf-mimo-leo-mega-constellation/index.md) |
