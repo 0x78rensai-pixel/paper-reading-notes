@@ -1,0 +1,55 @@
+{
+  "title": "Impact of Channel Aging on Cell-Free Massive MIMO Over Spatially Correlated Channels",
+  "normalized_title": "impact of channel aging on cell free massive mimo over spatially correlated channels",
+  "authors": [
+    "Jiakang Zheng",
+    "Jiayi Zhang",
+    "Emil Bjornson",
+    "Bo Ai"
+  ],
+  "venue": "IEEE Transactions on Wireless Communications",
+  "year": 2021,
+  "doi": "10.1109/TWC.2021.3074421",
+  "ieee_url": "https://doi.org/10.1109/TWC.2021.3074421",
+  "source_url": "https://doi.org/10.1109/TWC.2021.3074421",
+  "source_type": "trusted web",
+  "local_pdf_path": "",
+  "blog_date": "2026-06-19",
+  "blog_path": "papers/2026/2026-06-19-channel-aging-cell-free-massive-mimo/index.md",
+  "tags": [
+    "IEEE",
+    "Cell-Free Massive MIMO",
+    "Channel Aging",
+    "Spatial Correlation",
+    "Doppler",
+    "SINR",
+    "Spectral Efficiency"
+  ],
+  "research_relevance": {
+    "leo_satellite": false,
+    "cell_free_mimo": true,
+    "sinr_prediction": true,
+    "channel_aging": true,
+    "gnn_or_mpnn": false,
+    "wireless_ai": false
+  },
+  "duplicate_check_status": "passed",
+  "duplicate_check_basis": {
+    "doi_checked": true,
+    "title_checked": true,
+    "ieee_url_checked": true,
+    "used_papers_json_checked": true,
+    "existing_markdown_checked": true
+  },
+  "privacy_check_status": "passed",
+  "privacy_check_basis": {
+    "no_real_name": true,
+    "no_email": true,
+    "no_phone": true,
+    "no_local_windows_path": true,
+    "no_server_info": true,
+    "no_secret_or_token": true,
+    "no_private_research_data": true
+  },
+  "notes": "IEEE metadata verified by DOI and Crossref/Semantic Scholar records; no local PDF path is stored."
+}

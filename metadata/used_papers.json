@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-06-18",
+  "updated_at": "2026-06-19",
   "papers": [
+    {
+      "title": "Impact of Channel Aging on Cell-Free Massive MIMO Over Spatially Correlated Channels",
+      "normalized_title": "impact of channel aging on cell free massive mimo over spatially correlated channels",
+      "authors": [
+        "Jiakang Zheng",
+        "Jiayi Zhang",
+        "Emil Bjornson",
+        "Bo Ai"
+      ],
+      "venue": "IEEE Transactions on Wireless Communications",
+      "year": 2021,
+      "doi": "10.1109/TWC.2021.3074421",
+      "ieee_url": "https://doi.org/10.1109/TWC.2021.3074421",
+      "blog_date": "2026-06-19",
+      "blog_path": "papers/2026/2026-06-19-channel-aging-cell-free-massive-mimo/index.md",
+      "tags": [
+        "IEEE",
+        "Cell-Free Massive MIMO",
+        "Channel Aging",
+        "Spatial Correlation",
+        "Doppler",
+        "SINR"
+      ],
+      "privacy_check_status": "passed",
+      "duplicate_check_status": "passed"
+    },
     {
       "title": "Federated Learning Aided LEO Satellite Communications: A Distributed Beamforming Approach",
       "normalized_title": "federated learning aided leo satellite communications a distributed beamforming approach",
