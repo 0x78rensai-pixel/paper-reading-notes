@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-06-19",
+  "updated_at": "2026-06-22",
   "papers": [
+    {
+      "title": "A Tractable Approach to Coverage Analysis in Downlink Satellite Networks",
+      "normalized_title": "a tractable approach to coverage analysis in downlink satellite networks",
+      "authors": [
+        "Jeonghun Park",
+        "Jinseok Choi",
+        "Namyoon Lee"
+      ],
+      "venue": "IEEE Transactions on Wireless Communications",
+      "year": 2023,
+      "doi": "10.1109/TWC.2022.3198103",
+      "ieee_url": "https://doi.org/10.1109/TWC.2022.3198103",
+      "blog_date": "2026-06-22",
+      "blog_path": "papers/2026/2026-06-22-coverage-analysis-downlink-satellite-networks/index.md",
+      "tags": [
+        "IEEE",
+        "LEO",
+        "Satellite Networks",
+        "Coverage Probability",
+        "Stochastic Geometry",
+        "SINR"
+      ],
+      "privacy_check_status": "passed",
+      "duplicate_check_status": "passed"
+    },
     {
       "title": "Impact of Channel Aging on Cell-Free Massive MIMO Over Spatially Correlated Channels",
       "normalized_title": "impact of channel aging on cell free massive mimo over spatially correlated channels",

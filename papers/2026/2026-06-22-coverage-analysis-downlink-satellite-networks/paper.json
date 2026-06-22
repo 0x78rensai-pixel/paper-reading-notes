@@ -1,0 +1,53 @@
+{
+  "title": "A Tractable Approach to Coverage Analysis in Downlink Satellite Networks",
+  "normalized_title": "a tractable approach to coverage analysis in downlink satellite networks",
+  "authors": [
+    "Jeonghun Park",
+    "Jinseok Choi",
+    "Namyoon Lee"
+  ],
+  "venue": "IEEE Transactions on Wireless Communications",
+  "year": "2023",
+  "doi": "10.1109/TWC.2022.3198103",
+  "ieee_url": "https://doi.org/10.1109/TWC.2022.3198103",
+  "source_url": "https://doi.org/10.1109/TWC.2022.3198103",
+  "source_type": "local IEEE PDF metadata and DOI",
+  "local_pdf_path": "local_source_not_published",
+  "blog_date": "2026-06-22",
+  "blog_path": "papers/2026/2026-06-22-coverage-analysis-downlink-satellite-networks/index.md",
+  "tags": [
+    "IEEE",
+    "LEO",
+    "Satellite Networks",
+    "Coverage Probability",
+    "Stochastic Geometry",
+    "SINR"
+  ],
+  "research_relevance": {
+    "leo_satellite": true,
+    "cell_free_mimo": false,
+    "sinr_prediction": true,
+    "channel_aging": false,
+    "gnn_or_mpnn": false,
+    "wireless_ai": false
+  },
+  "duplicate_check_status": "passed",
+  "duplicate_check_basis": {
+    "doi_checked": true,
+    "title_checked": true,
+    "ieee_url_checked": true,
+    "used_papers_json_checked": true,
+    "existing_markdown_checked": true
+  },
+  "privacy_check_status": "passed",
+  "privacy_check_basis": {
+    "no_real_name": true,
+    "no_email": true,
+    "no_phone": true,
+    "no_local_windows_path": true,
+    "no_server_info": true,
+    "no_secret_or_token": true,
+    "no_private_research_data": true
+  },
+  "notes": "IEEE publication details verified from local IEEE PDF first page and DOI; public files omit local absolute paths and author contact details."
+}

@@ -6,6 +6,7 @@
 
 | 日期 | 论文 | 方向 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-06-22 | A Tractable Approach to Coverage Analysis in Downlink Satellite Networks | LEO Satellite, Coverage Probability, Stochastic Geometry, SINR | [阅读笔记](papers/2026/2026-06-22-coverage-analysis-downlink-satellite-networks/index.md) |
 | 2026-06-19 | Impact of Channel Aging on Cell-Free Massive MIMO Over Spatially Correlated Channels | Cell-Free Massive MIMO, Channel Aging, Doppler, SINR | [阅读笔记](papers/2026/2026-06-19-channel-aging-cell-free-massive-mimo/index.md) |
 | 2026-06-18 | Federated Learning Aided LEO Satellite Communications: A Distributed Beamforming Approach | LEO Satellite, Distributed Beamforming, Federated Learning, Wireless AI | [阅读笔记](papers/2026/2026-06-18-federated-learning-leo-distributed-beamforming/index.md) |
 | 2026-06-17 | Improving Integrated Satellite-Terrestrial Cell-Free Massive MIMO Systems by Rate-Splitting Multiple Access | LEO Satellite, Cell-Free Massive MIMO, RSMA, Energy Efficiency | [阅读笔记](papers/2026/2026-06-17-rsma-ist-cf-mimo-energy-efficiency/index.md) |
