@@ -1,6 +1,35 @@
 {
-  "updated_at": "2026-06-22",
+  "updated_at": "2026-06-23",
   "papers": [
+    {
+      "title": "GNN-Enabled Deep Unfolding for Precoding in Massive MIMO LEO Satellite Communications",
+      "normalized_title": "gnn enabled deep unfolding for precoding in massive mimo leo satellite communications",
+      "authors": [
+        "Huibin Zhou",
+        "Xinrui Gong",
+        "Christos G. Tsinos",
+        "Li You",
+        "Xiqi Gao",
+        "Bjorn Ottersten"
+      ],
+      "venue": "2025 IEEE Wireless Communications and Networking Conference (WCNC)",
+      "year": 2025,
+      "doi": "10.1109/WCNC61545.2025.10978590",
+      "ieee_url": "https://doi.org/10.1109/WCNC61545.2025.10978590",
+      "blog_date": "2026-06-23",
+      "blog_path": "papers/2026/2026-06-23-gnn-deep-unfolding-precoding-massive-mimo-leo/index.md",
+      "tags": [
+        "IEEE",
+        "LEO",
+        "Massive MIMO",
+        "GNN",
+        "Deep Unfolding",
+        "Precoding",
+        "Energy Efficiency"
+      ],
+      "privacy_check_status": "passed",
+      "duplicate_check_status": "passed"
+    },
     {
       "title": "A Tractable Approach to Coverage Analysis in Downlink Satellite Networks",
       "normalized_title": "a tractable approach to coverage analysis in downlink satellite networks",
