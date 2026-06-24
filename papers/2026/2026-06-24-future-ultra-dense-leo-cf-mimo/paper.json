@@ -1,0 +1,54 @@
+{
+  "title": "Future Ultra-Dense LEO Satellite Networks: A Cell-Free Massive MIMO Approach",
+  "normalized_title": "future ultra dense leo satellite networks a cell free massive mimo approach",
+  "authors": [
+    "Mohammed Y. Abdelsadek",
+    "Halim Yanikomeroglu",
+    "Gunes Karabulut Kurt"
+  ],
+  "venue": "2021 IEEE International Conference on Communications Workshops (ICC Workshops)",
+  "year": 2021,
+  "doi": "10.1109/ICCWorkshops50388.2021.9473753",
+  "ieee_url": "https://ieeexplore.ieee.org/document/9473753",
+  "source_url": "https://doi.org/10.1109/ICCWorkshops50388.2021.9473753",
+  "source_type": "local PDF",
+  "local_pdf_path": "local_source_not_published",
+  "blog_date": "2026-06-24",
+  "blog_path": "papers/2026/2026-06-24-future-ultra-dense-leo-cf-mimo/index.md",
+  "tags": [
+    "IEEE",
+    "LEO",
+    "Cell-Free Massive MIMO",
+    "NTN",
+    "Handover",
+    "Power Allocation",
+    "SINR"
+  ],
+  "research_relevance": {
+    "leo_satellite": true,
+    "cell_free_mimo": true,
+    "sinr_prediction": true,
+    "channel_aging": true,
+    "gnn_or_mpnn": false,
+    "wireless_ai": false
+  },
+  "duplicate_check_status": "passed",
+  "duplicate_check_basis": {
+    "doi_checked": true,
+    "title_checked": true,
+    "ieee_url_checked": true,
+    "used_papers_json_checked": true,
+    "existing_markdown_checked": true
+  },
+  "privacy_check_status": "passed",
+  "privacy_check_basis": {
+    "no_real_name": true,
+    "no_email": true,
+    "no_phone": true,
+    "no_local_windows_path": true,
+    "no_server_info": true,
+    "no_secret_or_token": true,
+    "no_private_research_data": true
+  },
+  "notes": "IEEE ICC Workshops 2021 paper verified from local IEEE PDF first-page DOI and publication line."
+}

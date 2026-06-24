@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-06-23",
+  "updated_at": "2026-06-24",
   "papers": [
+    {
+      "title": "Future Ultra-Dense LEO Satellite Networks: A Cell-Free Massive MIMO Approach",
+      "normalized_title": "future ultra dense leo satellite networks a cell free massive mimo approach",
+      "authors": [
+        "Mohammed Y. Abdelsadek",
+        "Halim Yanikomeroglu",
+        "Gunes Karabulut Kurt"
+      ],
+      "venue": "2021 IEEE International Conference on Communications Workshops (ICC Workshops)",
+      "year": 2021,
+      "doi": "10.1109/ICCWorkshops50388.2021.9473753",
+      "ieee_url": "https://ieeexplore.ieee.org/document/9473753",
+      "blog_date": "2026-06-24",
+      "blog_path": "papers/2026/2026-06-24-future-ultra-dense-leo-cf-mimo/index.md",
+      "tags": [
+        "IEEE",
+        "LEO",
+        "Cell-Free Massive MIMO",
+        "NTN",
+        "Handover",
+        "Power Allocation",
+        "SINR"
+      ],
+      "privacy_check_status": "passed",
+      "duplicate_check_status": "passed"
+    },
     {
       "title": "GNN-Enabled Deep Unfolding for Precoding in Massive MIMO LEO Satellite Communications",
       "normalized_title": "gnn enabled deep unfolding for precoding in massive mimo leo satellite communications",
