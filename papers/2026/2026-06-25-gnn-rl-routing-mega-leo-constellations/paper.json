@@ -1,0 +1,58 @@
+{
+  "title": "Graph Neural Network and Reinforcement Learning Based Routing for Mega LEO Satellite Constellations",
+  "normalized_title": "graph neural network and reinforcement learning based routing for mega leo satellite constellations",
+  "authors": [
+    "Senbai Zhang",
+    "Aijun Liu",
+    "Chen Han",
+    "Rui Wang",
+    "Xiaohu Liang",
+    "Xin Xu",
+    "Xin Lin"
+  ],
+  "venue": "2023 9th International Conference on Computer and Communications (ICCC)",
+  "year": 2023,
+  "doi": "10.1109/ICCC59590.2023.10507285",
+  "ieee_url": "https://ieeexplore.ieee.org/document/10507285",
+  "source_url": "https://doi.org/10.1109/ICCC59590.2023.10507285",
+  "source_type": "local PDF",
+  "local_pdf_path": "local_source_not_published",
+  "blog_date": "2026-06-25",
+  "blog_path": "papers/2026/2026-06-25-gnn-rl-routing-mega-leo-constellations/index.md",
+  "tags": [
+    "IEEE",
+    "LEO",
+    "Mega Constellation",
+    "GNN",
+    "Reinforcement Learning",
+    "Routing",
+    "Latency"
+  ],
+  "research_relevance": {
+    "leo_satellite": true,
+    "cell_free_mimo": false,
+    "sinr_prediction": false,
+    "channel_aging": false,
+    "gnn_or_mpnn": true,
+    "wireless_ai": true
+  },
+  "duplicate_check_status": "passed",
+  "duplicate_check_basis": {
+    "doi_checked": true,
+    "title_checked": true,
+    "ieee_url_checked": true,
+    "used_papers_json_checked": true,
+    "existing_markdown_checked": true
+  },
+  "privacy_check_status": "passed",
+  "privacy_check_basis": {
+    "no_real_name": true,
+    "no_email": true,
+    "no_phone": true,
+    "no_local_windows_path": true,
+    "no_server_info": true,
+    "no_secret_or_token": true,
+    "no_private_research_data": true
+  },
+  "notes": "IEEE source and DOI confirmed from the local IEEE PDF first page. No local absolute path is published."
+}

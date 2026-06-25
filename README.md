@@ -6,6 +6,7 @@
 
 | 日期 | 论文 | 方向 | 笔记 |
 | --- | --- | --- | --- |
+| 2026-06-25 | Graph Neural Network and Reinforcement Learning Based Routing for Mega LEO Satellite Constellations | LEO Satellite, Mega Constellation, GNN, Reinforcement Learning, Routing | [阅读笔记](papers/2026/2026-06-25-gnn-rl-routing-mega-leo-constellations/index.md) |
 | 2026-06-24 | Future Ultra-Dense LEO Satellite Networks: A Cell-Free Massive MIMO Approach | LEO Satellite, Cell-Free Massive MIMO, NTN, Handover | [阅读笔记](papers/2026/2026-06-24-future-ultra-dense-leo-cf-mimo/index.md) |
 | 2026-06-23 | GNN-Enabled Deep Unfolding for Precoding in Massive MIMO LEO Satellite Communications | LEO Satellite, Massive MIMO, GNN, Deep Unfolding, Precoding | [阅读笔记](papers/2026/2026-06-23-gnn-deep-unfolding-precoding-massive-mimo-leo/index.md) |
 | 2026-06-22 | A Tractable Approach to Coverage Analysis in Downlink Satellite Networks | LEO Satellite, Coverage Probability, Stochastic Geometry, SINR | [阅读笔记](papers/2026/2026-06-22-coverage-analysis-downlink-satellite-networks/index.md) |

@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-06-24",
+  "updated_at": "2026-06-25",
   "papers": [
+    {
+      "title": "Graph Neural Network and Reinforcement Learning Based Routing for Mega LEO Satellite Constellations",
+      "normalized_title": "graph neural network and reinforcement learning based routing for mega leo satellite constellations",
+      "authors": [
+        "Senbai Zhang",
+        "Aijun Liu",
+        "Chen Han",
+        "Rui Wang",
+        "Xiaohu Liang",
+        "Xin Xu",
+        "Xin Lin"
+      ],
+      "venue": "2023 9th International Conference on Computer and Communications (ICCC)",
+      "year": 2023,
+      "doi": "10.1109/ICCC59590.2023.10507285",
+      "ieee_url": "https://ieeexplore.ieee.org/document/10507285",
+      "blog_date": "2026-06-25",
+      "blog_path": "papers/2026/2026-06-25-gnn-rl-routing-mega-leo-constellations/index.md",
+      "tags": [
+        "IEEE",
+        "LEO",
+        "Mega Constellation",
+        "GNN",
+        "Reinforcement Learning",
+        "Routing",
+        "Latency"
+      ],
+      "privacy_check_status": "passed",
+      "duplicate_check_status": "passed"
+    },
     {
       "title": "Future Ultra-Dense LEO Satellite Networks: A Cell-Free Massive MIMO Approach",
       "normalized_title": "future ultra dense leo satellite networks a cell free massive mimo approach",
